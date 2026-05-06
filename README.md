@@ -14,8 +14,6 @@ I am a student at **SMA PLUS Abu Dzar**, passionate about bridging the gap betwe
 My creative and technical toolkit includes:
 
 **Design & Creative:**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
 ![Tech Stack](https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,figma,discord,redux,vscode,gpt,blender)
 
 ---
