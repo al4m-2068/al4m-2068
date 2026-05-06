@@ -12,8 +12,6 @@ I am a student at **SMA PLUS Abu Dzar**, passionate about bridging the gap betwe
 
 ### 🛠️ Tech Stack & Tools
 My creative and technical toolkit includes:
-
-**Design & Creative:**
 ![Tech Stack](https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,figma,discord,redux,vscode,gpt,blender)
 
 ---
