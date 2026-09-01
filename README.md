@@ -1,10 +1,10 @@
 # Hi there, I'm Albar Abdul Malik! 👋
 
 ### 👨‍💻 Designer & Web Developer
-I am a student at **SMA PLUS Abu Dzar**, passionate about bridging the gap between aesthetic design and functional web development. I love creating user-centric digital experiences.
+I am a student at **SMA PLUS Abu Dzar**, passionate about bridging the gap between aesthetic design and functional web development. I love creating user-centric digital experiences and effective, responsive UI layout structure.
 
 - 🔭 I’m currently working on **UI/UX & Web Development projects**
-- 🌱 I’m currently learning **Git & Version Control** to streamline my workflow
+- 🌱 I’m currently deepening **React.js and its Libraries** to extend my knowledge in it
 - 💬 Ask me about **UX within UI** — I love discussing how to make apps more intuitive!
 - ⚡ Fun fact: If you have chocolate—especially dark or dairy—keep it safe, or it might just "mysteriously" disappear! 🍫💨
 
