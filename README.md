@@ -5,14 +5,14 @@ I am a student at **SMA PLUS Abu Dzar**, passionate about bridging the gap betwe
 
 - 🔭 I’m currently working on **UI/UX & Web Development projects**
 - 🌱 I’m currently deepening **React.js and its Libraries** to extend my knowledge in it
-- 💬 Ask me about **UX within UI** — I love discussing how to make apps more intuitive!
+- 💬 Ask me about **Rendering Logics Best Practices & Animations** — I love discussing how to make apps clean coded and more intuitive!
 - ⚡ Fun fact: If you have chocolate—especially dark or dairy—keep it safe, or it might just "mysteriously" disappear! 🍫💨
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 My creative and technical toolkit includes:
-![Tech Stack](https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,figma,discord,redux,vscode,gpt,blender)
+![Tech Stack](https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,figma,discord,zustand,vscode,ts,blender,zod)
 
 ---
 
